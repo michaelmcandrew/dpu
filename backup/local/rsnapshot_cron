@@ -1,0 +1,2 @@
+# original file at dpu/backup/local/rsnapshot_cron
+0 * * * * root /home/michael/dpu/backup/local/rsnapshot_wrapper.sh
